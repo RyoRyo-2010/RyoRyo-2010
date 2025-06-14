@@ -1,26 +1,14 @@
-# 自己紹介
+# Hi there 😀
+- I'm a student programmer.
+- I'm not good at English, so I usually use ChatGPT.
+- I'm trying to take part in discussions.
 
-### 一言
-私はUnityとかC#を書くのがほとんどのプログラマーです。
+I'm still learning, and trying to improve both my programming and English skills.  
+I’d appreciate any feedback or corrections!
 
-### プログラミング言語について
-主に、
-- Java
+## Skills
+- C
 - C#
+- JavaScript
+- Python 3
 - VBA
-といったものがかけます。
-
-逆に、PythonとかRubyなどはかけません。
-
-C#では、デスクトップアプリケーションやゲームを、
-
-Javaではほとんどコンソールアプリケーションを作っています。
-
-### ソースコードの汚さ
-私は英語が苦手なので、だいたいファイル名や関数は、
-ローマ字だったり、Google翻訳のコピペだったりします。
-
-またソースコードはとても汚く、コメントアウトをあまりしていないので
-読みにくく、「ただ動くだけ」になりがちです。
-
-###### thank you for watching!
