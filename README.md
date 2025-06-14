@@ -1,5 +1,6 @@
 # Hi there 😀
 - I'm a student programmer.
+- I study at National Institute of Technology, Tokuyama College.
 - I'm not good at English, so I usually use ChatGPT.
 - I'm trying to take part in discussions.
 
